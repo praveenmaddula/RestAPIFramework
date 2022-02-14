@@ -1,2 +1,0 @@
-C:\Users\Praveen\source\repos\API\APITests\obj\Debug\APITests.csprojAssemblyReference.cache
-C:\Users\Praveen\source\repos\API\APITests\obj\Debug\APITests.csproj.CoreCompileInputs.cache
